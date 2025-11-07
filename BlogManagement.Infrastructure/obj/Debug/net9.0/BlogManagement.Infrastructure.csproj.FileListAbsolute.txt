@@ -1,0 +1,17 @@
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\bin\Debug\net9.0\BlogManagement.Infrastructure.deps.json
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\bin\Debug\net9.0\BlogManagement.Infrastructure.runtimeconfig.json
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\bin\Debug\net9.0\BlogManagement.Infrastructure.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\bin\Debug\net9.0\BlogManagement.Infrastructure.pdb
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\bin\Debug\net9.0\BlogManagement.Core.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\bin\Debug\net9.0\BlogManagement.Core.pdb
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogMana.0CC0E01D.Up2Date
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\refint\BlogManagement.Infrastructure.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.pdb
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\ref\BlogManagement.Infrastructure.dll

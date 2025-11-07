@@ -1,0 +1,11 @@
+C:\Users\vermv\BlogManagement\BlogManagement.Core\bin\Debug\net9.0\BlogManagement.Core.deps.json
+C:\Users\vermv\BlogManagement\BlogManagement.Core\bin\Debug\net9.0\BlogManagement.Core.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Core\bin\Debug\net9.0\BlogManagement.Core.pdb
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.AssemblyInfoInputs.cache
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.AssemblyInfo.cs
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\refint\BlogManagement.Core.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.pdb
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\ref\BlogManagement.Core.dll
