@@ -1,5 +1,6 @@
+using System;
 using System.ComponentModel.DataAnnotations;
-using System.Transactions;
+using System.Collections.Generic;
 
 namespace BlogManagement.Core.Entities
 {
@@ -20,7 +21,7 @@ namespace BlogManagement.Core.Entities
 
         public DateTime? UpdatedDate { get; set; }
 
-        public ICollection<Comment> Comments { get; set; } = new List<CommittableTransaction>();
+        public ICollection<Comment> Comments { get; set; } = new List<Comment>();
 
 
 
