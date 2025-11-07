@@ -26,6 +26,11 @@ namespace BlogManagement.Infrastructure.Data
 
             modelBuilder.Entity<Comment>(entity =>
             {
+                entity.Property(c => c.Name).IsRequired().HasMaxLength(100);
+                entity.Property(c => c.Email).IsRequired().HasMaxLength(100);
+                entity.Property(c => c.Content).IsRequired().HasMaxLength(5000);
+
+
 
             });
         }
