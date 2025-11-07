@@ -12,16 +12,21 @@ namespace BlogManagement.Infrastructure.Data
         public DbSet<Comment> Comments => Set<Comment>();
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            
+
             modelBuilder.Entity<Post>(entity =>
             {
-                entity.Property(e => e.Title).IsRequired().HasMaxLength(200);
-                entity.Property(e => e.Content).IsRequired();
-                entity.Property(e => e.Author).IsRequired();
-                entity.HasMany(e => e.Comments)
+                entity.Property(p => p.Title).IsRequired().HasMaxLength(200);
+                entity.Property(p => p.Content).IsRequired();
+                entity.Property(p => p.Author).IsRequired();
+                entity.HasMany(p => p.Comments)
                        .WithOne(c => c.Post!)
                        .HasForeignKey(c => c.PostId)
                        .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            modelBuilder.Entity<Comment>(entity =>
+            {
+
             });
         }
     }
