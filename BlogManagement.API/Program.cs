@@ -19,12 +19,6 @@ builder.Services.AddScoped<ICommentRepository, CommentRepository>();
 var app = builder.Build();
 
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseDeveloperExceptionPage();
-}
-
-
 app.UseAuthorization();
 
 app.MapControllers();
