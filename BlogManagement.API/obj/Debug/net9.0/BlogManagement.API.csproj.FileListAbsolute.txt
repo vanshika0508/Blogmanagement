@@ -160,3 +160,4 @@ C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\refint\BlogMan
 C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\BlogManagement.API.pdb
 C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\BlogManagement.API.genruntimeconfig.cache
 C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\ref\BlogManagement.API.dll
+C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\BlogManagement.API.sourcelink.json

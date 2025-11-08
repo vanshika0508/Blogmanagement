@@ -15,3 +15,4 @@ C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\ref
 C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.pdb
 C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.genruntimeconfig.cache
 C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\ref\BlogManagement.Infrastructure.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Infrastructure\obj\Debug\net9.0\BlogManagement.Infrastructure.sourcelink.json

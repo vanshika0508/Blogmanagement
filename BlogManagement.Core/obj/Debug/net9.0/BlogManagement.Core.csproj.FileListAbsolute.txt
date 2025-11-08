@@ -9,3 +9,4 @@ C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagemen
 C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\refint\BlogManagement.Core.dll
 C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.pdb
 C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\ref\BlogManagement.Core.dll
+C:\Users\vermv\BlogManagement\BlogManagement.Core\obj\Debug\net9.0\BlogManagement.Core.sourcelink.json
