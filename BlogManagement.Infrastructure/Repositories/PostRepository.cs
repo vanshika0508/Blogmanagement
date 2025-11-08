@@ -8,11 +8,17 @@ namespace BlogManagement.Infrastructure.Repositories
     public class PostRepository : IPostRepository
     {
         private readonly AppDbContext _context;
-        public PostRepository(AppDbContext context) => _context = context;
-
-        public Task<IEnumerable<Post>> GetAllAsync()
+        public PostRepository(AppDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+
+        public async Task<IEnumerable<Post>> GetAllAsync()
+        {
+            return await _context.Posts.Include(p => p.Comments)
+                         .AsNoTracking()
+                         .OrderByDescending(p => p.CreatedDate)
+                         .ToListAsync();
         }
 
         public async Task<Post?> GetByIdAsync(int id, bool includeComments = true)
