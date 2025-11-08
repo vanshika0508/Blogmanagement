@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vermv\\BlogManagement\\BlogManagement.API\\BlogManagement.API.csproj": {}
+    "C:\\Users\\vermv\\BlogManagement\\BlogManagement.Api\\BlogManagement.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vermv\\BlogManagement\\BlogManagement.API\\BlogManagement.API.csproj": {
+    "C:\\Users\\vermv\\BlogManagement\\BlogManagement.Api\\BlogManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vermv\\BlogManagement\\BlogManagement.API\\BlogManagement.API.csproj",
+        "projectUniqueName": "C:\\Users\\vermv\\BlogManagement\\BlogManagement.Api\\BlogManagement.API.csproj",
         "projectName": "BlogManagement.API",
-        "projectPath": "C:\\Users\\vermv\\BlogManagement\\BlogManagement.API\\BlogManagement.API.csproj",
+        "projectPath": "C:\\Users\\vermv\\BlogManagement\\BlogManagement.Api\\BlogManagement.API.csproj",
         "packagesPath": "C:\\Users\\vermv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vermv\\BlogManagement\\BlogManagement.API\\obj\\",
+        "outputPath": "C:\\Users\\vermv\\BlogManagement\\BlogManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vermv\\AppData\\Roaming\\NuGet\\NuGet.Config"
