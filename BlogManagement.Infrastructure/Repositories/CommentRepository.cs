@@ -24,7 +24,7 @@ namespace BlogManagement.Infrastructure.Repositories
             return _context.Comments.FirstOrDefaultAsync(c => c.Id == id);
         }
 
-        public async Task<IEnumerable<Comment>> GetByPOstIdAsync(int postId)
+        public async Task<IEnumerable<Comment>> GetByPostIdAsync(int postId)
         {
             return await _context.Comments.AsNoTracking()
                          .Where(c => c.PostId == postId)

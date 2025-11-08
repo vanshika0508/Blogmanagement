@@ -5,7 +5,7 @@ namespace BlogManagement.Core.Interfaces
     public interface ICommentRepository
     {
         Task<IEnumerable<Comment>> GetAllAsync();
-        Task<IEnumerable<Comment>> GetByPOstIdAsync(int postId);
+        Task<IEnumerable<Comment>> GetByPostIdAsync(int postId);
         Task<Comment?> GetByIdAsync(int id);
 
         Task<Comment> AddAsync(Comment comment);
