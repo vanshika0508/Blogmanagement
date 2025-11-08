@@ -22,30 +22,37 @@ namespace BlogManagement.Infrastructure.Repositories
             return await q.FirstOrDefaultAsync(p => p.Id == id);
         }
 
-        public Task<Post> AddAsync(Post post)
+        public async Task<Post> AddAsync(Post post)
         {
-            throw new NotImplementedException();
+            _context.Posts.Add(post);
+            await _context.SaveChangesAsync();
+            return post;
         }
 
-        public Task DeleteAsync(Post post)
+        public async Task DeleteAsync(Post post)
         {
-            throw new NotImplementedException();
+            _context.Posts.Remove(post);
+            await _context.SaveChangesAsync();
         }
 
         public Task<bool> ExistsAsync(int id)
         {
-            throw new NotImplementedException();
+
+            return _context.Posts.AnyAsync(p => p.Id == id);
         }
 
-    
+
+
         public Task SaveChangesAsync()
         {
-            throw new NotImplementedException();
+
+           return _context.SaveChangesAsync();
         }
 
-        public Task UpdateAsync(Post post)
+        public async Task UpdateAsync(Post post)
         {
-            throw new NotImplementedException();
+            _context.Posts.Update(post);
+            await _context.SaveChangesAsync();
         }
     } 
 }
