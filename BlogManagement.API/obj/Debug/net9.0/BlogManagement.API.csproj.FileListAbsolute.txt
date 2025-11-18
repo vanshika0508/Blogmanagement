@@ -161,3 +161,9 @@ C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\BlogManagement
 C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\BlogManagement.API.genruntimeconfig.cache
 C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\ref\BlogManagement.API.dll
 C:\Users\vermv\BlogManagement\BlogManagement.API\obj\Debug\net9.0\BlogManagement.API.sourcelink.json
+C:\Users\vermv\BlogManagement\BlogManagement.API\bin\Debug\net9.0\publish\web.config
+C:\Users\vermv\BlogManagement\BlogManagement.API\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\vermv\BlogManagement\BlogManagement.API\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\vermv\BlogManagement\BlogManagement.API\bin\Debug\net9.0\publish\BlogManagement.API.deps.json
+C:\Users\vermv\BlogManagement\BlogManagement.API\bin\Debug\net9.0\publish\BlogManagement.API.runtimeconfig.json
+C:\Users\vermv\BlogManagement\BlogManagement.API\bin\Debug\net9.0\publish\BlogManagement.API.staticwebassets.endpoints.json
